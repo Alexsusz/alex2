@@ -8,5 +8,5 @@ markdown
 Что нужно установить на компьютер: - Python 3.10 или выше -  ---
 ## Как запустить
 git clone https://github.com/Alexsusz/alex2.git 
-cd alex2
+
 python main.py
