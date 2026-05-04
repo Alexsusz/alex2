@@ -5,7 +5,7 @@ markdown
 ## Описание программы
 " «Random Quote Generator» с использованием random, сохранением истории и Git." ---
 ## Требования для запуска
-Что нужно установить на компьютер: - Python 3.10 или выше - Библиотеки: pip install matplotlib requests ---
+Что нужно установить на компьютер: - Python 3.10 или выше -  ---
 ## Как запустить
 git clone https://github.com/Alexsusz/alex2.git 
 cd alex2
